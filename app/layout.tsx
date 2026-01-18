@@ -9,8 +9,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'Command Palette - Global Search & Command Execution',
-  description: 'A keyboard-first command palette with deterministic fuzzy search, plugin architecture, and parameterized commands. Built from scratch with full accessibility support.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
